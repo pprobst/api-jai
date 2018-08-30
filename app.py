@@ -271,6 +271,12 @@ def post_avaliacao():
     for pergunta_id in pergunta_ids:
         avaliacao['respostas'][str(pergunta_id)] = request.json[str(pergunta_id)]
 
+    # remove avaliação antiga
+    for aval in avaliacoes:
+        if aval['trabalho'] == trabalho_id:
+            avaliacoes.remove(aval)
+            break
+
     avaliacoes.append(avaliacao)
 
     """ atualiza o json (descontinuado!)
