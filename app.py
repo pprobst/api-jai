@@ -126,19 +126,19 @@ trabalhos = {
                 "discursiva":false,
                 "id":152,
                 "nome": "O título do trabalho reflete seu conteúdo e as palavras usadas são adequadas?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
              {
                 "discursiva":false,
                 "id":153,
                 "nome": "O tema do trabalho é relevante na sua respectiva área do conhecimento?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":154,
                 "nome": "O título do trabalho reflete seu conteúdo e as palavras usadas são adequadas?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
