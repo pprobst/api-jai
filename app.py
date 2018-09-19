@@ -107,6 +107,93 @@ trabalhos = {
         },
     {
             "trabalho": {
+                "id": 25426,
+                "orientador": "OSVALDO BAZZAN KAIZER",
+                "titulo": "ADESIVO CONTENDO SILANO INFLUENCIA NA RESISTÊNCIA ADESIVA DOS PINOS DE FIBRA DE VIBRO",
+                "apresentador": "PATRÍCIA ELIANA FONTANA",
+                "apresentacao": {
+                    "data": "2018-09-06T00:00:00-03:00",
+                    "predio": "GINÁSIO POLIVALENTE - PARQUE DE EXPOSIÇÕES",
+                    "sala": "Painel 247"
+                        },
+            "perguntas": [
+            #{
+            #   "discursiva":true,
+            #   "id":121,
+            #   "nome": "Preencha o campo ao lado com a palavra \"APROVADO\" e, caso deseje, faça um comentário sobre a qualidade do trabalho. Caso o trabalho necessite revisão ou não seja aprovado, use o campo para escrever sua justificativa.",
+            #   "respostas":null
+            #   },
+            {
+                "discursiva":false,
+                "id":163,
+                "nome": "O título do trabalho reflete seu conteúdo e as palavras usadas são adequadas?",
+                "resposta": "Sim;Não"
+                            },
+             {
+                "discursiva":false,
+                "id":164,
+                "nome": "O tema do trabalho é relevante na sua respectiva área do conhecimento?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":165,
+                "nome": "O título do trabalho reflete seu conteúdo e as palavras usadas são adequadas?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":166,
+                "nome": "A contextualização do trabalho com a literatura e/ou processos criativos existentes é feita de forma satisfatória?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":167,
+                "nome": " A metodologia empregada no trabalho reflete o atual estado da arte na sua respectiva área do conhecimento?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":168,
+                "nome": "Os resultados são apresentados de forma clara, estruturada e coerente, utilizando-se dos meios adequados (tabelas, gráficos etc)?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":169,
+                "nome": " A discussão dos resultados enfatizou seus aspectos mais relevantes e suas limitações?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":170,
+                "nome": "As conclusões do trabalho são coerentes com seus resultados, métodos e objetivos?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":171,
+                "nome": "O pôster ou os slides continham as informações necessárias de forma sintética e objetiva?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":172,
+                "nome": "O apresentador domina o conteúdo do trabalho apresentado?",
+                "resposta": "Sim;Não"
+                            },
+            {
+                "discursiva":false,
+                "id":173,
+                "nome": "Qual nota o(a) Sr(a) daria para o trabalho/apresentador como um todo?",
+                "resposta": "0;1;2;3;4;5"
+                            }
+            ]
+        }
+        },
+    {
+            "trabalho": {
                 "id": 25425,
                 "titulo": "TRACTATUS LOGICO-PHILOSOFICUS",
                 "apresentador": "LUDWIG WITTGENSTEIN",
@@ -144,43 +231,43 @@ trabalhos = {
                 "discursiva":false,
                 "id":155,
                 "nome": "A contextualização do trabalho com a literatura e/ou processos criativos existentes é feita de forma satisfatória?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":156,
                 "nome": " A metodologia empregada no trabalho reflete o atual estado da arte na sua respectiva área do conhecimento?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":157,
                 "nome": "Os resultados são apresentados de forma clara, estruturada e coerente, utilizando-se dos meios adequados (tabelas, gráficos etc)?",
-                "resposta": "0;1;2;3"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":158,
                 "nome": " A discussão dos resultados enfatizou seus aspectos mais relevantes e suas limitações?",
-                "resposta": "0;1;2;3"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":159,
                 "nome": "As conclusões do trabalho são coerentes com seus resultados, métodos e objetivos?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":160,
                 "nome": "O pôster ou os slides continham as informações necessárias de forma sintética e objetiva?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
                 "id":161,
                 "nome": "O apresentador domina o conteúdo do trabalho apresentado?",
-                "resposta": "0;1;2;3;4;5"
+                "resposta": "Sim;Não"
                             },
             {
                 "discursiva":false,
@@ -215,6 +302,45 @@ avaliacoes = [
             }
         }
 ]
+
+edicao_corrente = {
+        "id": null,
+        "error": false,
+        "codigo": 1001,
+        "mensagem": "Sucesso",
+        "edicao": {
+            "ano": 2018,
+            "fim": "2018-10-26T00:00:00-03:00",
+            "id": 84,
+            "inicio": "2018-10-22T00:00:00-03:00",
+            "nome": "33ª Jornada Acadêmica Integrada"
+            },
+        "errorEntity": false
+        }
+
+modulos = {
+        "id": null,
+        "error": false,
+        "codigo": 1001,
+        "mensagem": "Sucesso",
+        "agrupadores": [
+            {
+                "id": 65,
+                "modulos": [
+                    {
+                        "id": 463,
+                        "nome": "AGRONOMIA/AGROMETEOROLOGIA"
+                        },
+                    {
+                        "id": 499,
+                        "nome": "AGRONOMIA/CIÊNCIA DO SOLO"
+                        }
+                    ],
+                "nome": "CIÊNCIAS AGRÁRIAS"
+                }
+            ],
+        "errorEntity": false
+        }
 
 # GET todos os trabalhos
 @app.route('/jai/avaliacaoRest/findTrabalhos', methods=['GET'])
@@ -271,7 +397,6 @@ def post_avaliacao():
     for pergunta_id in pergunta_ids:
         avaliacao['respostas'][str(pergunta_id)] = request.json[str(pergunta_id)]
 
-    # remove avaliação antiga
     for aval in avaliacoes:
         if aval['trabalho'] == trabalho_id:
             avaliacoes.remove(aval)
@@ -291,6 +416,26 @@ def post_avaliacao():
     """
 
     return jsonify({'avaliacao':avaliacao["trabalho"]}), 201
+
+# GET das informações sobre a edição atual da JAI
+@app.route('/jai/avaliacaoRest/findEdicao', methods=['GET'])
+def get_edicao():
+    return jsonify({'edição': edicao_corrente})
+
+# GET dos trabalhos da data passada
+@app.route('/jai/avaliacaoRest/findTrabalhosModulo', methods=['GET'])
+def get_trabalhos_modulo():
+    #if not request.json:
+    #    abort(400)
+
+    data_trabalho = request.args.get('data')
+    modulo_trabalho = request.get('modulo')
+
+    trabalho = [trabalho for trabalho in trabalhos['trabalhos'] if trabalho['trabalho']['apresentacao']['data'][:10] == data_trabalho]
+    if len(trabalho) == 0:
+        abort(404)
+
+    return jsonify({'trabalho': trabalho[0]})
 
 if __name__ == '__main__':
     app.run(debug=True)
