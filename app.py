@@ -325,18 +325,71 @@ modulos = {
         "mensagem": "Sucesso",
         "agrupadores": [
             {
-                "id": 65,
+                "id": 66,
                 "modulos": [
                     {
-                        "id": 463,
-                        "nome": "AGRONOMIA/AGROMETEOROLOGIA"
-                        },
-                    {
-                        "id": 499,
-                        "nome": "AGRONOMIA/CIÊNCIA DO SOLO"
+                        "id": 464,
+                        "nome": "QUÍMICA/MATERIAIS",
+                        "trabalhos": [
+                            {
+                                "trabalho": {
+                                "id": 25426,
+                                "orientador": "OSVALDO BAZZAN KAIZER",
+                                "titulo": "ADESIVO CONTENDO SILANO INFLUENCIA NA RESISTÊNCIA ADESIVA DOS PINOS DE FIBRA DE VIBRO",
+                                "apresentador": "PATRÍCIA ELIANA FONTANA",
+                                "apresentacao": {
+                                    "data": "2018-09-06T00:00:00-03:00",
+                                    "predio": "GINÁSIO POLIVALENTE - PARQUE DE EXPOSIÇÕES",
+                                    "sala": "Painel 247"
+                                },
+                                }
+                                }
+                            ]
                         }
                     ],
-                "nome": "CIÊNCIAS AGRÁRIAS"
+                "nome": "CIÊNCIAS EXATAS E DA TERRA"
+                },
+            {
+                "id": 67,
+                "modulos": [
+                    {
+                        "id": 465,
+                        "nome": "SOCIOLOGIA/ESTUDOS DA SOCIEDADE",
+                        "trabalhos": [
+                            {
+                                "trabalho": {
+                                "id": 25424,
+                                "titulo": "SOBRE JORNALISTAS MILITANTES: FORMAÇÃO, PARTICIPAÇÃO E JORNALISMO EM MOVIMENTOS SOCIAIS",
+                                "apresentador": "JULIA MARA SAGGIORATO",
+                                "apresentacao": {
+                                    "data": "2018-05-11T09:12:43:435",
+                                    "predio": "CSSH 74A",
+                                    "sala": "Painel 12"
+                                },
+                                }
+                                }
+                            ]
+                        },
+                    {
+                        "id": 501,
+                        "nome": "FILOSOFIA/FILOSOFIA DA LINGUAGEM",
+                        "trabalhos": [
+                            {
+                                "trabalho": {
+                                "id": 25425,
+                                "titulo": "TRACTATUS LOGICO-PHILOSOFICUS",
+                                "apresentador": "LUDWIG WITTGENSTEIN",
+                                "apresentacao": {
+                                    "data": "2018-05-11T09:14:48:235",
+                                    "predio": "CSSH 74A",
+                                    "sala": "Painel 12"
+                                },
+                                }
+                                }
+                            ]
+                        }
+                    ],
+                "nome": "CIÊNCIAS HUMANAS"
                 }
             ],
         "errorEntity": false
@@ -422,6 +475,12 @@ def post_avaliacao():
 def get_edicao():
     return jsonify({'edição': edicao_corrente})
 
+# GET dos módulos
+@app.route('/jai/avaliacaoRest/findModulos', methods=['GET'])
+def get_modulos():
+    return jsonify({'modulos': modulos})
+
+
 # GET dos trabalhos da data passada
 @app.route('/jai/avaliacaoRest/findTrabalhosModulo', methods=['GET'])
 def get_trabalhos_modulo():
@@ -429,9 +488,24 @@ def get_trabalhos_modulo():
     #    abort(400)
 
     data_trabalho = request.args.get('data')
-    modulo_trabalho = request.get('modulo')
+    modulo_trabalho = request.args.get('modulo')
+    agrupadores = modulos['agrupadores']
+    modulos_todos = [modulo['modulos'] for modulo in agrupadores]
+    modulos_indiv = []
+    for mod in modulos_todos:
+        for m in mod:
+            modulos_indiv.append(m)
+    modulo = [modulo for modulo in modulos_indiv if str(modulo['id']) == modulo_trabalho]
+    if len(modulo) == 0:
+        abort(404)
 
-    trabalho = [trabalho for trabalho in trabalhos['trabalhos'] if trabalho['trabalho']['apresentacao']['data'][:10] == data_trabalho]
+    trabalhos_modulo = [mod['trabalhos'] for mod in modulo]
+    trabalhos_modulo_indiv = []
+    for trab in trabalhos_modulo:
+        for t in trab:
+            trabalhos_modulo_indiv.append(t)
+
+    trabalho = [trabalho for trabalho in trabalhos_modulo_indiv if trabalho['trabalho']['apresentacao']['data'][:10] == data_trabalho]
     if len(trabalho) == 0:
         abort(404)
 
