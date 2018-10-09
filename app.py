@@ -509,7 +509,7 @@ def get_trabalhos_modulo():
     if len(trabalho) == 0:
         abort(404)
 
-    return jsonify({'trabalho': trabalho[0]})
+    return jsonify({'trabalhos': trabalho})
 
 if __name__ == '__main__':
     app.run(debug=True)
