@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 # Expõe tudo em /jai/ para o CORS e permite content-type header;
 # necessário para utilizar os recursos localmente com GET/POST usados no Ionic.
-# CORS(app, resources=r'/jai/*')
+ CORS(app, resources=r'/jai/*')
 
 # auth = HTTPBasicAuth() # desnecessário por enquanto
 
