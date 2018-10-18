@@ -1,0 +1,1242 @@
+{
+    "agrupadores": [
+        {
+            "id": 1,
+            "modulos": [
+                {
+                    "id": 1,
+                    "nome": "COMUNICAÇÃO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 2,
+                    "nome": "DIREITO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 9,
+                    "nome": "ECONOMIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 10,
+                    "nome": "ADMINISTRAÇÃO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 54,
+                    "nome": "CIÊNCIA DA INFORMAÇÃO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 55,
+                    "nome": "DIREITO (NOTURNO 3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 56,
+                    "nome": "ARQUITETURA E URBANISMO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 62,
+                    "nome": "DIREITO (NOTURNO 1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 74,
+                    "nome": "PLANEJAMENTO URBANO E REGIONAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 89,
+                    "nome": "DESENHO INDUSTRIAL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 90,
+                    "nome": "DESENHO INDUSTRIAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 91,
+                    "nome": "COMUNICAÇÃO (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 97,
+                    "nome": "TURISMO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 99,
+                    "nome": "COMUNICAÇÃO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 102,
+                    "nome": "ADMINISTRAÇÃO (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 104,
+                    "nome": "ADMINISTRAÇÃO (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 110,
+                    "nome": "DIREITO (NOTURNO 4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 111,
+                    "nome": "CIÊNCIA DA INFORMAÇÃO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 112,
+                    "nome": "DESENHO INDUSTRIAL (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 120,
+                    "nome": "COMUNICAÇÃO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 127,
+                    "nome": "ARQUITETURA E URBANISMO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 128,
+                    "nome": "SERVIÇO SOCIAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 129,
+                    "nome": "SERVIÇO SOCIAL (NOTURNO 1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 131,
+                    "nome": "SERVIÇO SOCIAL (NOTURNO 2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 133,
+                    "nome": "CIÊNCIAS CONTÁBEIS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 134,
+                    "nome": "CIÊNCIAS CONTÁBEIS (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 140,
+                    "nome": "ADMINISTRAÇÃO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 141,
+                    "nome": "ADMINISTRAÇÃO (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 144,
+                    "nome": "ARQUITETURA E URBANISMO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 154,
+                    "nome": "DIREITO (NOTURNO 2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 156,
+                    "nome": "DIREITO (NOTURNO 9)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 160,
+                    "nome": "DIREITO (NOTURNO 6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 174,
+                    "nome": "ECONOMIA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 179,
+                    "nome": "COMUNICAÇÃO (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 193,
+                    "nome": "DIREITO (NOTURNO 8)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 205,
+                    "nome": "COMUNICAÇÃO (6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 213,
+                    "nome": "DIREITO (NOTURNO 7)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 214,
+                    "nome": "COMUNICAÇÃO (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 228,
+                    "nome": "ADMINISTRAÇÃO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 235,
+                    "nome": "DIREITO (NOTURNO 5)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS SOCIAIS APLICADAS"
+        },
+        {
+            "id": 2,
+            "modulos": [
+                {
+                    "id": 3,
+                    "nome": "QUÍMICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 11,
+                    "nome": "PROBABILIDADE E ESTATÍSTICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 12,
+                    "nome": "PROBABILIDADE E ESTATÍSTICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 15,
+                    "nome": "OCEANOGRAFIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 20,
+                    "nome": "CIÊNCIA DA COMPUTAÇÃO (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 43,
+                    "nome": "GEOCIÊNCIAS (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 60,
+                    "nome": "FÍSICA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 70,
+                    "nome": "MATEMÁTICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 73,
+                    "nome": "FÍSICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 77,
+                    "nome": "CIÊNCIA DA COMPUTAÇÃO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 119,
+                    "nome": "GEOCIÊNCIAS (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 124,
+                    "nome": "QUÍMICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 152,
+                    "nome": "MATEMÁTICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 157,
+                    "nome": "MATEMÁTICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 158,
+                    "nome": "CIÊNCIA DA COMPUTAÇÃO (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 159,
+                    "nome": "FÍSICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 164,
+                    "nome": "FÍSICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 171,
+                    "nome": "CIÊNCIA DA COMPUTAÇÃO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 187,
+                    "nome": "MATEMÁTICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 194,
+                    "nome": "ASTRONOMIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 215,
+                    "nome": "FÍSICA (1)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS EXATAS E DA TERRA"
+        },
+        {
+            "id": 3,
+            "modulos": [
+                {
+                    "id": 4,
+                    "nome": "EDUCAÇÃO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 5,
+                    "nome": "PSICOLOGIA (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 6,
+                    "nome": "PSICOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 32,
+                    "nome": "PSICOLOGIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 42,
+                    "nome": "EDUCAÇÃO (NOTURNO 6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 47,
+                    "nome": "EDUCAÇÃO (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 49,
+                    "nome": "HISTÓRIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 51,
+                    "nome": "HISTÓRIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 72,
+                    "nome": "EDUCAÇÃO (NOTURNO 2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 75,
+                    "nome": "ARQUEOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 76,
+                    "nome": "HISTÓRIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 84,
+                    "nome": "EDUCAÇÃO (8)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 92,
+                    "nome": "EDUCAÇÃO (NOTURNO 5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 93,
+                    "nome": "GEOGRAFIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 94,
+                    "nome": "FILOSOFIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 100,
+                    "nome": "CIÊNCIA POLÍTICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 103,
+                    "nome": "EDUCAÇÃO (NOTURNO 1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 115,
+                    "nome": "PSICOLOGIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 116,
+                    "nome": "PSICOLOGIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 122,
+                    "nome": "EDUCAÇÃO (6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 123,
+                    "nome": "EDUCAÇÃO (7)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 125,
+                    "nome": "SOCIOLOGIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 126,
+                    "nome": "SOCIOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 132,
+                    "nome": "SOCIOLOGIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 137,
+                    "nome": "SOCIOLOGIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 138,
+                    "nome": "PSICOLOGIA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 139,
+                    "nome": "FILOSOFIA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 145,
+                    "nome": "PSICOLOGIA (7)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 147,
+                    "nome": "EDUCAÇÃO (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 150,
+                    "nome": "EDUCAÇÃO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 151,
+                    "nome": "CIÊNCIA POLÍTICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 162,
+                    "nome": "EDUCAÇÃO (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 167,
+                    "nome": "HISTÓRIA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 168,
+                    "nome": "EDUCAÇÃO (NOTURNO 3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 175,
+                    "nome": "EDUCAÇÃO (NOTURNO 4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 191,
+                    "nome": "ANTROPOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 198,
+                    "nome": "HISTÓRIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 212,
+                    "nome": "CIÊNCIA POLÍTICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 226,
+                    "nome": "PSICOLOGIA (6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 231,
+                    "nome": "EDUCAÇÃO (1)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS HUMANAS"
+        },
+        {
+            "id": 4,
+            "modulos": [
+                {
+                    "id": 7,
+                    "nome": "FISIOTERAPIA E TERAPIA OCUPACIONAL (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 22,
+                    "nome": "ENFERMAGEM (7)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 25,
+                    "nome": "ODONTOLOGIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 33,
+                    "nome": "EDUCAÇÃO FÍSICA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 37,
+                    "nome": "MEDICINA (6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 41,
+                    "nome": "SAÚDE COLETIVA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 44,
+                    "nome": "FISIOTERAPIA E TERAPIA OCUPACIONAL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 53,
+                    "nome": "FARMÁCIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 61,
+                    "nome": "NUTRIÇÃO (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 64,
+                    "nome": "FONOAUDIOLOGIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 85,
+                    "nome": "ODONTOLOGIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 117,
+                    "nome": "SAÚDE COLETIVA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 121,
+                    "nome": "MEDICINA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 142,
+                    "nome": "MEDICINA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 149,
+                    "nome": "FISIOTERAPIA E TERAPIA OCUPACIONAL (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 173,
+                    "nome": "ENFERMAGEM (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 176,
+                    "nome": "FARMÁCIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 177,
+                    "nome": "MEDICINA (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 178,
+                    "nome": "ODONTOLOGIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 180,
+                    "nome": "EDUCAÇÃO FÍSICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 181,
+                    "nome": "EDUCAÇÃO FÍSICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 182,
+                    "nome": "ENFERMAGEM (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 184,
+                    "nome": "FONOAUDIOLOGIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 188,
+                    "nome": "ENFERMAGEM (6)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 189,
+                    "nome": "FISIOTERAPIA E TERAPIA OCUPACIONAL (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 192,
+                    "nome": "MEDICINA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 195,
+                    "nome": "NUTRIÇÃO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 197,
+                    "nome": "EDUCAÇÃO FÍSICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 201,
+                    "nome": "FARMÁCIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 208,
+                    "nome": "ENFERMAGEM (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 209,
+                    "nome": "MEDICINA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 217,
+                    "nome": "EDUCAÇÃO FÍSICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 221,
+                    "nome": "SAÚDE COLETIVA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 222,
+                    "nome": "ENFERMAGEM (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 229,
+                    "nome": "FISIOTERAPIA E TERAPIA OCUPACIONAL (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 233,
+                    "nome": "ENFERMAGEM (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 234,
+                    "nome": "FONOAUDIOLOGIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 236,
+                    "nome": "NUTRIÇÃO (1)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS DA SAÚDE"
+        },
+        {
+            "id": 5,
+            "modulos": [
+                {
+                    "id": 8,
+                    "nome": "ENGENHARIA QUÍMICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 13,
+                    "nome": "ENGENHARIA ELÉTRICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 19,
+                    "nome": "ENGENHARIA DE TRANSPORTES (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 23,
+                    "nome": "ENGENHARIA MECÂNICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 24,
+                    "nome": "ENGENHARIA SANITÁRIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 36,
+                    "nome": "ENGENHARIA CIVIL (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 38,
+                    "nome": "ENGENHARIA ELÉTRICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 67,
+                    "nome": "ENGENHARIA DE PRODUÇÃO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 83,
+                    "nome": "ENGENHARIA DE TELECOMUNICAÇÕES",
+                    "trabalhos": []
+                },
+                {
+                    "id": 87,
+                    "nome": "ENGENHARIA AEROESPACIAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 88,
+                    "nome": "ENGENHARIA CIVIL (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 113,
+                    "nome": "ENGENHARIA ACÚSTICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 118,
+                    "nome": "ENGENHARIA QUÍMICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 153,
+                    "nome": "ENGENHARIA DE MATERIAIS E METALÚRGICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 166,
+                    "nome": "ENGENHARIA CIVIL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 170,
+                    "nome": "ENGENHARIA DE TRANSPORTES (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 183,
+                    "nome": "ENGENHARIA AEROESPACIAL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 185,
+                    "nome": "ENGENHARIA BIOMÉDICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 186,
+                    "nome": "ENGENHARIA QUÍMICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 190,
+                    "nome": "ENGENHARIA MECÂNICA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 199,
+                    "nome": "ENGENHARIA ELÉTRICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 200,
+                    "nome": "ENGENHARIA DE PRODUÇÃO (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 218,
+                    "nome": "ENGENHARIA CIVIL (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 220,
+                    "nome": "ENGENHARIA ELÉTRICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 223,
+                    "nome": "ENGENHARIA MECÂNICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 237,
+                    "nome": "ENGENHARIA DE TRANSPORTES (2)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "ENGENHARIAS"
+        },
+        {
+            "id": 6,
+            "modulos": [
+                {
+                    "id": 14,
+                    "nome": "ENGENHARIA AGRÍCOLA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 16,
+                    "nome": "MEDICINA VETERINÁRIA/MEDICINA VETERINÁRIA PREVENTIVA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 17,
+                    "nome": "AGRONOMIA/CIÊNCIA DO SOLO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 18,
+                    "nome": "AGRONOMIA/FITOTECNIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 21,
+                    "nome": "AGRONOMIA/FITOSSANIDADE",
+                    "trabalhos": []
+                },
+                {
+                    "id": 26,
+                    "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS/CIÊNCIA DE ALIMENTOS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 27,
+                    "nome": "MEDICINA VETERINÁRIA/CLINICA E CIRURGIA ANIMAL (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 28,
+                    "nome": "MEDICINA VETERINÁRIA/CLINICA E CIRURGIA ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 29,
+                    "nome": "MEDICINA VETERINÁRIA/CLINICA E CIRURGIA ANIMAL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 30,
+                    "nome": "MEDICINA VETERINÁRIA/REPRODUÇÃO ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 31,
+                    "nome": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 35,
+                    "nome": "AGRONOMIA/EXTENSÃO RURAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 50,
+                    "nome": "AGRONOMIA/FITOSSANIDADE (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 65,
+                    "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS/TECNOLOGIA DE ALIMENTOS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 66,
+                    "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS/ENGENHARIA DE ALIMENTOS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 68,
+                    "nome": "AGRONOMIA/AGROMETEOROLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 71,
+                    "nome": "MEDICINA VETERINÁRIA/INSPEÇÃO DE PRODUTOS DE ORIGEM ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 78,
+                    "nome": "ZOOTECNIA/GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 79,
+                    "nome": "ZOOTECNIA/NUTRIÇÃO E ALIMENTAÇÃO ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 80,
+                    "nome": "ZOOTECNIA/PRODUÇÃO ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 86,
+                    "nome": "MEDICINA VETERINÁRIA/REPRODUÇÃO ANIMAL (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 95,
+                    "nome": "MEDICINA VETERINÁRIA/PATOLOGIA ANIMAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 96,
+                    "nome": "ZOOTECNIA/PASTAGEM E FORRAGICULTURA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 114,
+                    "nome": "AGRONOMIA/FLORICULTURA, PARQUES E JARDINS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 130,
+                    "nome": "MEDICINA VETERINÁRIA/REPRODUÇÃO ANIMAL (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 155,
+                    "nome": "ZOOTECNIA/ECOLOGIA DOS ANIMAIS DOMÉSTICOS E ETOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 161,
+                    "nome": "AGRONOMIA/FITOSSANIDADE (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 196,
+                    "nome": "RECURSOS PESQUEIRA E ENGENHARIA DE PESCA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 202,
+                    "nome": "AGRONOMIA/FITOTECNIA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 203,
+                    "nome": "AGRONOMIA/EXTENSÃO RURAL (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 216,
+                    "nome": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS/TECNOLOGIA DE ALIMENTOS (NOT)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 224,
+                    "nome": "MEDICINA VETERINÁRIA/MEDICINA VETERINÁRIA PREVENTIVA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 227,
+                    "nome": "MEDICINA VETERINÁRIA/MEDICINA VETERINÁRIA PREVENTIVA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 232,
+                    "nome": "AGRONOMIA/FITOTECNIA (1)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS AGRÁRIAS"
+        },
+        {
+            "id": 7,
+            "modulos": [
+                {
+                    "id": 34,
+                    "nome": "LINGÜÍSTICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 39,
+                    "nome": "LETRAS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 40,
+                    "nome": "LINGÜÍSTICA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 57,
+                    "nome": "ARTES/ARTES PLÁSTICAS",
+                    "trabalhos": []
+                },
+                {
+                    "id": 58,
+                    "nome": "LINGÜÍSTICA (NOTURNO)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 81,
+                    "nome": "LINGÜÍSTICA (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 98,
+                    "nome": "ARTES/MÚSICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 101,
+                    "nome": "LETRAS (4)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 105,
+                    "nome": "ARTES/TEATRO (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 106,
+                    "nome": "ARTES/TEATRO (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 107,
+                    "nome": "ARTES/TEATRO",
+                    "trabalhos": []
+                },
+                {
+                    "id": 135,
+                    "nome": "ARTES/DANÇA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 136,
+                    "nome": "ARTES/DANÇA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 143,
+                    "nome": "LETRAS (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 146,
+                    "nome": "LETRAS (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 165,
+                    "nome": "ARTES/ARTES PLÁSTICAS (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 204,
+                    "nome": "LINGÜÍSTICA (5)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 207,
+                    "nome": "LETRAS (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 210,
+                    "nome": "ARTES/TEATRO ",
+                    "trabalhos": []
+                },
+                {
+                    "id": 211,
+                    "nome": "ARTES/ARTES PLÁSTICAS (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 219,
+                    "nome": "LINGÜÍSTICA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 225,
+                    "nome": "ARTES/DANÇA (2)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 230,
+                    "nome": "LINGÜÍSTICA (2)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "LINGÜÍSTICA, LETRAS E ARTES"
+        },
+        {
+            "id": 8,
+            "modulos": [
+                {
+                    "id": 45,
+                    "nome": "BIOQUÍMICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 46,
+                    "nome": "FARMACOLOGIA (3)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 48,
+                    "nome": "ECOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 52,
+                    "nome": "GENÉTICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 59,
+                    "nome": "ZOOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 63,
+                    "nome": "BIOLOGIA GERAL",
+                    "trabalhos": []
+                },
+                {
+                    "id": 69,
+                    "nome": "MICROBIOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 82,
+                    "nome": "FISIOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 108,
+                    "nome": "IMUNOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 109,
+                    "nome": "PARASITOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 148,
+                    "nome": "FARMACOLOGIA (1)",
+                    "trabalhos": []
+                },
+                {
+                    "id": 163,
+                    "nome": "BIOFÍSICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 169,
+                    "nome": "MORFOLOGIA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 172,
+                    "nome": "BOTÂNICA",
+                    "trabalhos": []
+                },
+                {
+                    "id": 206,
+                    "nome": "FARMACOLOGIA (2)",
+                    "trabalhos": []
+                }
+            ],
+            "nome": "CIÊNCIAS BIOLÓGICAS"
+        }
+    ],
+    "codigo": 1001,
+    "error": false,
+    "errorEntity": false,
+    "id": null,
+    "mensagem": "Sucesso"
+}

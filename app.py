@@ -21,6 +21,9 @@ with open('data.json') as json_data:
 with open('data2.json') as json_data2:
     modulos = json.load(json_data2)
 
+with open('data3.json') as json_data3:
+    so_modulos = json.load(json_data3)
+
 # Aqui eu me distanciei um pouco da documentação; nela, não está claro como as avaliações
 # dos trabalhos estão separadas. Por conta disso, tomei a liberdade de fazer uma lista.
 avaliacoes = [
@@ -140,8 +143,7 @@ def get_edicao():
 # GET dos módulos
 @app.route('/jai/avaliacaoRest/findModulos', methods=['GET'])
 def get_modulos():
-    return jsonify({'modulos': modulos})
-
+    return jsonify({'modulos': so_modulos})
 
 # GET dos trabalhos da data passada
 @app.route('/jai/avaliacaoRest/findTrabalhosModulo', methods=['GET'])

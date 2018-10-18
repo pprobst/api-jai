@@ -102,13 +102,14 @@ for rownum in range(1, sh.nrows):
         trabalhos.append(trabalho)
     i+=1
 
+# para não adicionar os trabalho caso quiser só os módulos,
+# comentar as linhas abaixo
 for trab in trabalhos:
     for agrup in agrupadores:
         if trab['trabalho']['agrupador'] == agrup['nome']:
             for mod in agrup['modulos']:
                 if trab['trabalho']['modulo'] == mod['nome']:
                     mod['trabalhos'].append(trab)
-
 
 dados = {
     "id": null,
