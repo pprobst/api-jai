@@ -1,9 +1,11 @@
 from flask import Flask, jsonify, abort, make_response, request, url_for
+from flask_compress import Compress
 from flask_httpauth import HTTPBasicAuth
 from flask_cors import CORS
 import json
 
 app = Flask(__name__)
+Compress(app)
 
 # Expõe tudo em /jai/ para o CORS e permite content-type header;
 # necessário para utilizar os recursos localmente com GET/POST usados no Ionic.
