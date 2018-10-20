@@ -1,5 +1,6 @@
 click==6.7
 Flask==1.0.2
+Flask-Compress==1.4.0
 Flask-Cors==3.0.6
 Flask-HTTPAuth==3.2.4
 gunicorn==19.9.0
@@ -7,4 +8,5 @@ itsdangerous==0.24
 Jinja2==2.10
 MarkupSafe==1.0
 six==1.11.0
+waitress==1.1.0
 Werkzeug==0.14.1
