@@ -30,12 +30,12 @@
                 },
                 {
                     "id": 34,
-                    "nome": "SAÚDE COLETIVA",
+                    "nome": "FARMÁCIA",
                     "trabalhos": []
                 },
                 {
-                    "id": 41,
-                    "nome": "FARMÁCIA",
+                    "id": 35,
+                    "nome": "SAÚDE COLETIVA",
                     "trabalhos": []
                 },
                 {
@@ -100,12 +100,12 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 79,
+                    "id": 73,
                     "nome": "SERVIÇO SOCIAL",
                     "trabalhos": []
                 },
                 {
-                    "id": 80,
+                    "id": 81,
                     "nome": "CIÊNCIAS CONTÁBEIS",
                     "trabalhos": []
                 }
@@ -136,7 +136,7 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 35,
+                    "id": 36,
                     "nome": "GEOCIÊNCIAS",
                     "trabalhos": []
                 },
@@ -172,7 +172,7 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 39,
+                    "id": 40,
                     "nome": "HISTÓRIA",
                     "trabalhos": []
                 },
@@ -197,7 +197,7 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 78,
+                    "id": 80,
                     "nome": "SOCIOLOGIA",
                     "trabalhos": []
                 },
@@ -258,7 +258,7 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 76,
+                    "id": 78,
                     "nome": "ENGENHARIA ACÚSTICA",
                     "trabalhos": []
                 },
@@ -374,7 +374,7 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 77,
+                    "id": 79,
                     "nome": "AGRONOMIA/FLORICULTURA, PARQUES E JARDINS",
                     "trabalhos": []
                 },
@@ -415,12 +415,12 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 73,
+                    "id": 74,
                     "nome": "ARTES/TEATRO",
                     "trabalhos": []
                 },
                 {
-                    "id": 81,
+                    "id": 77,
                     "nome": "ARTES/DANÇA",
                     "trabalhos": []
                 }
@@ -431,22 +431,22 @@
             "id": 8,
             "modulos": [
                 {
-                    "id": 36,
+                    "id": 37,
                     "nome": "BIOQUÍMICA",
                     "trabalhos": []
                 },
                 {
-                    "id": 37,
+                    "id": 38,
                     "nome": "FARMACOLOGIA",
                     "trabalhos": []
                 },
                 {
-                    "id": 38,
+                    "id": 39,
                     "nome": "ECOLOGIA",
                     "trabalhos": []
                 },
                 {
-                    "id": 40,
+                    "id": 41,
                     "nome": "GENÉTICA",
                     "trabalhos": []
                 },
@@ -471,12 +471,12 @@
                     "trabalhos": []
                 },
                 {
-                    "id": 74,
+                    "id": 75,
                     "nome": "IMUNOLOGIA",
                     "trabalhos": []
                 },
                 {
-                    "id": 75,
+                    "id": 76,
                     "nome": "PARASITOLOGIA",
                     "trabalhos": []
                 },
